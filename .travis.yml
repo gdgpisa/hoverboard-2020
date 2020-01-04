@@ -10,6 +10,7 @@ install:
   - yarn
   - cd functions && yarn && cd ..
 script:
+  - echo "Linting..."
   - yarn lint
   - echo "Building..."
   - 'if [ "$TRAVIS_BRANCH" == "develop" ]; then yarn build; fi'
@@ -21,13 +22,13 @@ deploy:
     skip_cleanup: true
     'on':
       branch: master
-    project: hoverboard-master
+    project: devfest-pisa20
     token:
-      secure: dH2t9T+ydWtytB9JMVkbt46Ku2xOYi6dIlLFjyiFvTpYmUs6VZIFBkUP+1ohAlAgjlLeFeqFkWHpCbZfPp2tiPrF+y7VFIXxDM3wlByYyg+cCJDunvqgS7VJ2MX1XviiKIiElgu09T7FiV/59Y3GAh54KL4T8IB5+64tROGMXqgmYv2uwtgNH1AaNjkJFSQ+M9D4JBCpikZYe0Y+aU96IFrpPuo8wjLjk9UL/1WeVmjY1pmHpX0KkYDd4djuXe3wIVPnbzwbWgD7C+vzjFxeaktQv+I4axYj2gPtEuH+sDFU60mIiJoWDsdElUuiV3Sn5mJY5VmbufqNH9ijCl9Um2ufnu16aTQYja39sqK8dQrUsySesebHGNh+aUynusr7FXZInqjSxt7gBjJZGKuvPCRYlx7kZXB/gsij1zY1XlcGe83eCHJV3Ioa1xV8BOaCJTaCQAMmQBH1UVCB7xXsVUgAtlC4LCtjAvxeS7wrKmcVn7CGLXKF8y5Cg9SbtPIYfY3gtDeRYWM3aB28xOq2Zs3u11E4bkjEUWhey1uzbF1J2yOjIwo9l+uroSxmnpoeTjIiXFMBTn+crZ+ygdoB8Pb2zM0M0EukoYbVck7cQa9lICHPFob5UJUdbkpj0qAKOxtx+Uxlb4CUi+KNFeemQ4y9yaZ8IGbPtKycVMJXiOk=
+      secure: CkyX0L4FH9TaQmk00btX5HmEWi4mu+LdR/g542Gb+9CXViLAC6fjVqVG5WKLRGg7P65gG/3eGOxiEbou3/OWEVyVpTzfw72AxaVpAKubo5JFfyUFn1t8y5dbA39S8SaN8303tsjkVSN15QgCGOba142Uq6Ol/TCgaPfvypJoAjwAzGIb1AQV5YSQjtdC/gmIYB5Sk2Fhb59WqsLSlxkCxYPKSJCHbeQKtpHbK4pNcoWqSbK67gM+Intebe4PUgFRvERsem+j2le0x2oIgwxLIX4bJolV+1+xTaFPAh5bf9ylKKvZeCqwjuaO76+QOLdlIjJ6ZiwcXUyGXHNnEaJ01K4e42dcc7kS73ing9XBl7UZwwaVN8kJYJpjwmp/DuQOKwjRqo8x55kbCIkkAUWH9mDSCoCQt439DAXQyiPXH/XWe7Elc2CJyEPdYijCu6FsiRZ0S09NPWxifj8i+v2DgBznCGilIbbhBFLL548x+9++ICZnAW5+VuDOIo883t7QLe+iKpK8sr8VCZsV9QNK+OFlz6AKKgliBFxSqrtWvhRdXcHdpacKunTw416/gV3iujSZ+fJgiV2hLzqknYOF4slG5245qD1hPxFgjs1g3c8YlhdESTVjJyeqwX6OOvi91edLqB1Zy0p4kvlXNmRWTiuPRLkZtX9/zD/xUhg1fvU=
   - provider: firebase
     skip_cleanup: true
     'on':
       branch: develop
-    project: hoverboard-dev
+    project: devfest-pisa20-dev
     token:
-      secure: dH2t9T+ydWtytB9JMVkbt46Ku2xOYi6dIlLFjyiFvTpYmUs6VZIFBkUP+1ohAlAgjlLeFeqFkWHpCbZfPp2tiPrF+y7VFIXxDM3wlByYyg+cCJDunvqgS7VJ2MX1XviiKIiElgu09T7FiV/59Y3GAh54KL4T8IB5+64tROGMXqgmYv2uwtgNH1AaNjkJFSQ+M9D4JBCpikZYe0Y+aU96IFrpPuo8wjLjk9UL/1WeVmjY1pmHpX0KkYDd4djuXe3wIVPnbzwbWgD7C+vzjFxeaktQv+I4axYj2gPtEuH+sDFU60mIiJoWDsdElUuiV3Sn5mJY5VmbufqNH9ijCl9Um2ufnu16aTQYja39sqK8dQrUsySesebHGNh+aUynusr7FXZInqjSxt7gBjJZGKuvPCRYlx7kZXB/gsij1zY1XlcGe83eCHJV3Ioa1xV8BOaCJTaCQAMmQBH1UVCB7xXsVUgAtlC4LCtjAvxeS7wrKmcVn7CGLXKF8y5Cg9SbtPIYfY3gtDeRYWM3aB28xOq2Zs3u11E4bkjEUWhey1uzbF1J2yOjIwo9l+uroSxmnpoeTjIiXFMBTn+crZ+ygdoB8Pb2zM0M0EukoYbVck7cQa9lICHPFob5UJUdbkpj0qAKOxtx+Uxlb4CUi+KNFeemQ4y9yaZ8IGbPtKycVMJXiOk=
+      secure: CkyX0L4FH9TaQmk00btX5HmEWi4mu+LdR/g542Gb+9CXViLAC6fjVqVG5WKLRGg7P65gG/3eGOxiEbou3/OWEVyVpTzfw72AxaVpAKubo5JFfyUFn1t8y5dbA39S8SaN8303tsjkVSN15QgCGOba142Uq6Ol/TCgaPfvypJoAjwAzGIb1AQV5YSQjtdC/gmIYB5Sk2Fhb59WqsLSlxkCxYPKSJCHbeQKtpHbK4pNcoWqSbK67gM+Intebe4PUgFRvERsem+j2le0x2oIgwxLIX4bJolV+1+xTaFPAh5bf9ylKKvZeCqwjuaO76+QOLdlIjJ6ZiwcXUyGXHNnEaJ01K4e42dcc7kS73ing9XBl7UZwwaVN8kJYJpjwmp/DuQOKwjRqo8x55kbCIkkAUWH9mDSCoCQt439DAXQyiPXH/XWe7Elc2CJyEPdYijCu6FsiRZ0S09NPWxifj8i+v2DgBznCGilIbbhBFLL548x+9++ICZnAW5+VuDOIo883t7QLe+iKpK8sr8VCZsV9QNK+OFlz6AKKgliBFxSqrtWvhRdXcHdpacKunTw416/gV3iujSZ+fJgiV2hLzqknYOF4slG5245qD1hPxFgjs1g3c8YlhdESTVjJyeqwX6OOvi91edLqB1Zy0p4kvlXNmRWTiuPRLkZtX9/zD/xUhg1fvU=
