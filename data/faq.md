@@ -1,123 +1,65 @@
-## General
+ We know that you could have some questions so we prepared for you a list of **FAQs** that may can help you 💪
 
-### Dates and Location
+ Anyway we are alway open to solve any other doubt you could have, feel free to [contact us](mailto:pisagdg+devfest@gmail.com) in that case.
 
-GDG DevFest Ukraine will take place on the 12-13th of October in [Planeta Kino (King Cross),]( https://goo.gl/Zwi76g) Lviv.
+### How do I get there?
 
-### Stay Informed
+You can easily reach **Polo Fibonacci** with public transportation or just by walking. Please check the [location page](/location) where you can find further details.
 
-To stay up to date on the latest information on sessions, speakers, and activities, be sure to visit the [DevFest website](https://devfest.gdg.org.ua/), RSVP on [Meetup]( https://www.meetup.com/GDG-Lviv/events/244342635/) and follow us on [Facebook](https://www.facebook.com/devfest.ukraine/) and [Twitter](https://twitter.com/devfest_ukraine). You can also follow and join the social conversation about GDG DevFest Ukraine via official hashtags #dfua and #Devfest18. In addition, we'll be emailing important information to all registered attendees, along with check-in instructions prior to the conference.
+### Where is "Aula N"?
 
-### Content Formats
+Please note that this year DevFest Pisa will be in **two near buildings**. Please checkout the [map page](/map) to better understand where every room is located.
 
-During two conference days, attendees will be able to attend sessions and hands-on workshops, chat with experts and attendees at coffee breaks and after-party, and more.
+### Do I need a ticket to join DevFest Pisa?
 
-### Livestream & Recordings
+Yes, participation to the DevFest is **free**, but registration is **mandatory**. Being in the waiting list is not sufficient to participate to the conference.
 
-If you’re unable to attend DevFest in-person, you can still be part of the magic. All the lectures from the sessions will be available for free on GDG Lviv [youtube channel](https://www.youtube.com/channel/UC5nknQj-2llSNd-jqXr4d_w) a few weeks after the conference. Workshops won’t be recorded. Also, there could be a live stream provided by participants which you can find via #dfua and #Devfest18 hashtags.
+### I can't attend the DevFest, what should I do?
 
-## Registration
+If you **can't attend** we kindly ask you to **cancel your order** via Eventbrite, or either send us an email (we can do it for you). The event is currently Sold-out and we have a lot of people in the waiting list. You will free-up a spot for someone else :)
 
-### Drawing Dates
+### Do I need to print my tickets?
 
-The window to buy a ticket will be opened until 6 PM GMT+2 on October 11th, 2018, or earlier if the tickets are sold out. If the ticket was bought after September 30th registered participants won’t get printed badge (their names will be written on the badge by marker). To buy a ticket [follow the link]( https://2event.com/events/1027108), select the required ticket type, fill in the required information and pay for it.
+No, you can use the [Eventbrite app](https://play.google.com/store/apps/details?id=com.eventbrite.attendee) to show us the ticket. Showing the ticket email with the QR code is also enough. Please make sure to have your ticket ready to do not slow down the check-in process.
 
-Once you've successfully paid for the ticket you’ll reach a confirmation screen and receive an email with the ticket. Please don’t forget to download it on your device or print it, as it’s required for entrance.
+### Should I come even if I'm still on the waiting list?
 
-### Ticket Types
+You can come even if you're in the waiting list, but we can't assure you will get a spot :( We will release tickets of people that don't show up during day so you may have a chance to get in, but this is out of our control, and we can't tell you in advance if you'll get a place.
 
-#### **Pre-Early birds tickets**
+### Can I give my ticket to someone else?
 
-General Admission: $50
+Yes, but you need to tell us about this, and we will take care of voiding your tickets and emitting a new one to your friend/relative.
 
-Conditions: Feb 7 - Mar 7 or first 50 tickets
+### Can I leave the conference and come back later?
 
-#### **Early birds tickets**
+Yes, you can always leave the conference and come back whenever you want. To enter the venue you anyway always need your **badge** (you will get it at the entrance).
 
-General Admission: $70
+### I have the workshop ticket but I don't have the DevFest ticket? Can I participate to the workshop only?
 
-Conditions: Mar 7 - Jun 30 or first 200 tickets
+No, as written in the workshop description, you need a DevFest ticket to join all the sessions (either talks or workshop).
 
-#### **Lazy birds tickets**
+### I registered on meetup.com. Is that valid as a ticket?
 
-General Admission: $90
+No, the only valid tickets for eventbrite are the one [available on Eventbrite](http://bit.ly/dfpi19-tickets).
 
-Conditions: Jul 1 - Sep 30 or until tickets will be sold out
+### What should I carry on to the conference?
 
-#### **EDU (Students/lecturers) Tickets**
+**Your ticket**. That's the only necessary thing you shouldn't forget. If you're attending one of our Workshops, the speakers will let you know if you need to carry on your laptop or not. 
 
-We offer a limited number of tickets at a discounted rate of $30 for full-time students and lecturers. To qualify, you need to be a student or a professor, faculty or staff at a higher education institution. Be aware that Ph.D. students are not on the list. Once purchased, general admission tickets can't be converted to EDU tickets, and vice versa.
+### Will I get food/lunch at the DevFest?
 
-When you check-in at the conference, you'll need to provide a current student ID (active during the conference dates), transcript, credential, or other forms of documentation which demonstrates that you’re qualified to receive this special rate. If you buy an academic ticket and can't provide academic documentation when you arrive at DevFest, you won't be admitted or offered a refund, nor will you be able to convert your ticket to general admission.
+Yes, we are offering a **small lunch** (beware just little food and refreshments, not a full lunch) and two coffee breaks. You can find a lot of nice restaurants in [via San Lorenzo](https://goo.gl/maps/Ck5a5kBA1EF2), just a few minutes walk from the venue.
 
-#### **Press Tickets**
+### Are you giving away any gadgets/awards?
 
-We’ll be offering a limited number of press passes to qualified members of the media. To submit a request, please fill out this [FORM]( https://goo.gl/forms/SmKHuksRw8sb0eoB2). If you have additional questions, please email [devfest@gdg.org.ua](mailto:devfest@gdg.org.ua) for more information. Please note that we’ll have a limited number of press-passes available and will be vetting requests. Filling out the form doesn’t guarantee you a press pass. Our team will contact you if we’re able to accommodate your request.
+Yes, we have some swags for all the participants + some giveaways to give as a raffle 🎁. All the details at the opening ceremony.
 
-#### **I Love DFUA**
+### Are the sessions recorded?
 
-General admission: $150
+No, we are not recording/live-streaming the sessions.
 
-Special tickets for real supporters of our conference. As we’re organizing the event on a non-profit basis, additional resources will help us bring more cool speakers from all over the world and additionally invest in demo-zone, party, and other activities. Owners of “I love DFUA” tickets will get additional valuable benefits from our team.
+### What is the Job Wall?   
+The job wall is a pin board where you're free to post your job openings. Rules for the Job wall are here: [Introducing the Job Wall](/blog/posts/introducing-the-job-wall/).   
 
-### Registration Terms & Conditions
-
-- Tickets for GDG DevFest Ukraine are for the full two-day conference and no single-day tickets are available.
-- You may buy a ticket on behalf of the other person (for example, make a gift). Just mention during purchase the name, company and title of the person who will attend the event.
-- GDG DevFest Ukraine tickets must be used by the original registrant and are non-transferable.
-- By registering and accepting any discounts, gifts, or items of value related to GDG DevFest Ukraine, you certify that you are able to do so in compliance with applicable laws and the internal rules of your organization.
-- At check-in, we’ll check your ticket prior to assigning you your GDG DevFest Ukraine badge. If you don’t have proper identification, you won’t be able to receive a badge and won’t be admitted to the conference.
-- If you buy an EDU ticket and can't provide academic documentation during check-in at GDG DevFest Ukraine, you won't be admitted or offered a refund, nor will you be able to convert your ticket to general admission. Please be sure to bring a current student ID or other proof that you are qualified to receive this special rate when you check-in at the conference.
-- Ticket purchases can be refunded before October 4th, 2018 via your profile at the [ticket service website]( https://2event.com/events/1027108).
-- After October 4th, 2018, all ticket sales are final. There will be no refunds or exchanges regardless of weather conditions, session availability, or any other circumstance.
-- Attendees aren’t permitted to bring guests to GDG DevFest Ukraine or to the after-hours party. If you have someone traveling with you, they’ll need to register themselves and purchase an attendee ticket.
-- Photographs and/or video that were taken at GDG DevFest Ukraine by GDG Lviv, or others on behalf of the conference organizers, may include your image or likeness. You agree that GDG Lviv may use such photographs and/or videos for any purpose without any compensation to you.
-- All information entered into the registration form must be correct and accurate to the best of your knowledge. All information expected to be entered in English. Some of the information entered (such as name, company, and title), will be displayed on the attendee badge.
-- By registering for a ticket you acknowledge that your information will be used in accordance with [Tickets provider Terms of Service](https://2event.com/en/agreement).
-- All registered attendees agree to allow GDG Lviv to contact them regarding their registration and attendance at the event. By registering for a ticket, you agree to allow GDG Lviv to communicate with you via email with information regarding the event.
-- You agree to be solely responsible for your own safety, belongings, and well-being while participating in GDG DevFest Ukraine. Organizers won't be liable for your participation in GDG DevFest Ukraine.
-- Applicants and attendees can request the deletion of their registration data after the event ends by emailing [devfest@gdg.org.ua](mailto:devfest@gdg.org.ua).
-
-### More Registration Details
-
-- Please make sure to register using the name that matches the government-issued photo ID you’ll be presenting when you check in to the festival.
-- Registration for GDG DevFest Ukraine includes two full days of sessions, product demos, admission to the after-hours party, and attendance at the keynotes. We also provide complimentary snacks each day. In addition, attendees receive a conference badge and may be offered additional gifts.
-- If you aren’t a resident of Ukraine, you should check with your local government to determine the required documents and arrangements needed for your travel to Ukraine. If you require a visa letter regarding your GDG DevFest Ukraine attendance please indicate so when completing the registration form and we’ll email it to you within 7 business days. If you haven’t received your letter or have questions regarding the process, you can contact [devfest@gdg.org.ua](mailto:devfest@gdg.org.ua). GDG Lviv won’t be able to contact an embassy on your behalf.
-
-## Attendance Details
-
-### Language
-
-All presentations at GDG DevFest Ukraine will be in English.
-
-### Pro Tips
-
-If you’re joining us in-person at Planeta Kino, here are some useful tips to navigate your way through the conference:
-
-- Lost & Found: Will be located at the Conference Info Desk (Registration point) during event hours. Any items left overnight will be turned over to the Conference Security Office.
-- Lunch: Attendees are invited to have lunch at one of the many restaurants at King Cross shopping mall.
-- After Hours: Day 1 afterparty you don’t want to miss! Attendees are invited to enjoy food, drinks, music, games, and more during the evening of October 12th (location will be published). Your attendee badge is required for entrance.
-
-### Badges & Badge Pick-up
-
-To expedite the check-in process, we’ll begin badge pick-up on Thursday, October 11, (location will be published). Make sure to bring your ticket along with student/lecturer ID (for EDU tickets), as we’ll need to verify it prior to assigning you your GDG DevFest Ukraine badge. If you don’t have proper identification, you won’t be able to receive a badge and won’t be admitted to the conference.
-
-Everyone is guaranteed a seat for the keynotes but the best seats will be assigned on a first-come, first-served basis during badge pick-up beginning at 9 AM on October 12th. So make sure to come in on time!
-
-Please note, you may not share, give, or otherwise provide your badge to anyone. GDG DevFest Ukraine badges aren’t replaceable, so don't lose yours or you won’t be readmitted to the conference. You must wear your GDG DevFest Ukraine badge to gain admission to the conference, including the sessions, workshops, and afterparty. If requested by security, please display or provide additional identification. GDG DevFest Ukraine badges may include your name, company or work title (if provided).
-
-### Afterparty
-
-All registered attendees are invited to the afterparty on the evenings of October 12th. The conference badges will be required for entry. Please join us for food, drinks, music, games, and more. Alcoholic beverages will be available for those 18 and over.
-
-### Event Attire
-
-GDG DevFest is a developer event, so please be comfortable and casual. There is no enforced dress code.
-
-### Smoking
-
-Smoking is only permitted in designated outdoor smoking areas.
-
-### No Soliciting
-
-No solicitation or selling of items or services is allowed at GDG DevFest Ukraine. Any attendee conducting these activities may be removed from the conference.
+### What is the Beer Party?    
+The beer party is a party event we organized for the DevFest Pisa attendees. You're all invited. It will be at "Lo Spaventapasseri", all the details are here: [There Will Be No DevFest Without A Networking Beer!](http://2019.devfest.gdgpisa.it/blog/posts/there-will-be-no-devfest-without-networking-beer/)

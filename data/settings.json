@@ -1,21 +1,21 @@
 {
   "organizer": {
-    "name": "GDG Lviv",
-    "twitter": "gdglviv",
-    "blog": "https://medium.com/gdg-lviv",
-    "url": "http://lviv.gdg.org.ua/"
+    "name": "GDG Pisa",
+    "twitter": "gdgPisa",
+    "blog": "https://gdgpisa.it/blog",
+    "url": "https://gdgpisa.it/"
   },
-  "startDate": "2017-10-013T09:00:00+03:00",
-  "endDate": "2017-10-14T19:00:00+03:00",
+  "startDate": "2020-04-18T08:00:00+02:00",
+  "endDate": "2020-04-19T18:00:00+02:00",
   "webapp": {
-    "shortName": "DevFest",
+    "shortName": "DevFest Pisa",
     "themeColor": "#673AB7",
     "backgroundColor": "#673AB7"
   },
   "dateFormat": {
     "locale": "en-US"
   },
-  "hashtag": "DevFest",
+  "hashtag": "DevFestPisa",
   "disabledSchedule": false,
   "navigation": [
     {
@@ -24,31 +24,36 @@
       "label": "Home"
     },
     {
-      "route": "speakers",
-      "permalink": "/speakers/",
-      "label": "Speakers"
+      "route": "blog",
+      "permalink": "/blog/",
+      "label": "Blog"
     },
     {
-      "route": "schedule",
-      "permalink": "/schedule/",
-      "label": "Schedule"
+      "route": "location",
+      "permalink": "/location/",
+      "label": "Location"
+    },
+    {
+      "route": "map",
+      "permalink": "/map/",
+      "label": "Map"
+    },
+    {
+      "route": "faq",
+      "permalink": "/faq/",
+      "label": "FAQ"
     },
     {
       "route": "team",
       "permalink": "/team/",
       "label": "Team"
-    },
-    {
-      "route": "blog",
-      "permalink": "/blog/",
-      "label": "Blog"
     }
   ],
   "heroSettings": {
     "home": {
-      "description": "Join the commuity, learn new things!",
+      "description": "From the Community, to the Community",
       "background": {
-        "color": "#673ab7",
+        "color": "#1A237E",
         "image": "/images/backgrounds/home.jpg"
       },
       "fontColor": "#FFF"
@@ -70,14 +75,6 @@
       },
       "fontColor": "#424242"
     },
-    "previousSpeakers": {
-      "title": "Previous Speakers",
-      "metaDescription": "Check who was with us last years",
-      "background": {
-        "color": "#FFF"
-      },
-      "fontColor": "#424242"
-    },
     "schedule": {
       "title": "Schedule",
       "metaDescription": "Choose your sessions to visit",
@@ -94,17 +91,36 @@
       },
       "fontColor": "#424242"
     },
-    "faq": {
-      "title": "FAQs",
-      "metaDescription": "Find you answer right here!",
+    "cod": {
+      "title": "Code Of Conduct",
+      "metaDescription": "Lear more about our expectations for all those who participate in our community",
       "background": {
         "color": "#fff"
       },
       "fontColor": "#424242"
     },
-    "coc": {
-      "title": "Code of Conduct",
-      "metaDescription": "Lear more about our expectations for all those who participate in our community",
+    "faq": {
+      "title": "FAQ",
+      "metaDescription": "Please find in this page, all the answers to the Frequently Asked Questions about DevFest Pisa 2019",
+      "description": "Please find in this page, all the answers to the Frequently Asked Questions about DevFest Pisa 2019",
+      "background": {
+        "color": "#fff"
+      },
+      "fontColor": "#424242"
+    },
+    "location": {
+      "title": "Location",
+      "metaDescription": "Please find directions and address of the venue on this page",
+      "description": "Please find directions and address of the venue on this page",
+      "background": {
+        "color": "#fff"
+      },
+      "fontColor": "#424242"
+    },
+    "map": {
+      "title": "Map",
+      "metaDescription": "Please find here a map of our venue",
+      "description": "Please find here a map of our venue",
       "background": {
         "color": "#fff"
       },
@@ -113,20 +129,20 @@
   },
   "location": {
     "label": "Location",
-    "name": "Planeta kino",
-    "city": "Lviv",
-    "short": "Lviv, Ukraine",
-    "address": "36 Shchyretska St, Lviv, Ukraine",
+    "name": "Polo Fibonacci",
+    "city": "Pisa",
+    "short": "Pisa, Tuscany, Italy",
+    "address": "Largo Bruno Pontecorvo, 3",
     "pointer": {
-      "latitude": 49.809841,
-      "longitude": 23.972805,
+      "latitude": 43.721653,
+      "longitude": 10.408442,
       "zoom": 5
     },
     "mapCenter": {
-      "latitude": 48,
-      "longitude": 8
+      "latitude": 42,
+      "longitude": 9
     },
-    "description": "Newly built Pivdennyi Expo is a long-awaited exhibition center in Lviv, which can fulfill the needs of the large-scale event"
+    "description": "Directly in the center of Pisa, just a few meter next to the University Computer Science department"
   },
   "mediaQueries": {
     "xs": {
@@ -148,23 +164,23 @@
     "follow": [
       {
         "name": "meetup",
-        "url": "https://www.meetup.com/GDG-Lviv/events/244342635/"
+        "url": "https://www.meetup.com/GDG-Pisa/"
       },
       {
         "name": "facebook",
-        "url": "https://www.facebook.com/devfest.ukraine/"
+        "url": "https://www.facebook.com/gdgpisa/"
       },
       {
         "name": "twitter",
-        "url": "https://twitter.com/devfest_ukraine/"
+        "url": "https://twitter.com/gdgPisa/"
       },
       {
         "name": "instagram",
-        "url": "https://www.instagram.com/devfestukraine"
+        "url": "https://www.instagram.com/gdgPisa"
       },
       {
         "name": "youtube",
-        "url": "https://www.youtube.com/playlist?list=PLt8lEzcLNl31AouwDkbLbLARlQFwNS2en"
+        "url": "https://www.youtube.com/channel/UCpELmCo9iPDmZTyFLcb5YBw"
       }
     ],
     "share": [
@@ -178,29 +194,17 @@
       }
     ]
   },
-  "mailto": "devfest@gdg.org.ua",
+  "mailto": "pisagdg+devfest@gmail.com",
   "signInProviders": {
     "providersData": [
       {
         "name": "google",
         "label": "Sign in with Google",
         "url": "https://accounts.google.com"
-      },
-      {
-        "name": "facebook",
-        "label": "Sign in with Facebook",
-        "url": "https://www.facebook.com"
-      },
-      {
-        "name": "twitter",
-        "label": "Sign in with Twitter",
-        "url": "https://twitter.com"
       }
     ],
     "allowedProvidersUrl": [
-      "https://accounts.google.com",
-      "https://www.facebook.com",
-      "https://twitter.com"
+      "https://accounts.google.com"
     ]
   },
   "contentLoaders": {
