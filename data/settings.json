@@ -34,16 +34,6 @@
       "label": "Location"
     },
     {
-      "route": "map",
-      "permalink": "/map/",
-      "label": "Map"
-    },
-    {
-      "route": "faq",
-      "permalink": "/faq/",
-      "label": "FAQ"
-    },
-    {
       "route": "team",
       "permalink": "/team/",
       "label": "Team"
@@ -51,7 +41,7 @@
   ],
   "heroSettings": {
     "home": {
-      "description": "From the Community, to the Community",
+      "description": "Doubling down on the community!",
       "background": {
         "color": "#1A237E",
         "image": "/images/backgrounds/home.jpg"
