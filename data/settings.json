@@ -9,8 +9,8 @@
   "endDate": "2020-04-19T18:00:00+02:00",
   "webapp": {
     "shortName": "DevFest Pisa",
-    "themeColor": "#673AB7",
-    "backgroundColor": "#673AB7"
+    "themeColor": "#C62828",
+    "backgroundColor": "#C62828"
   },
   "dateFormat": {
     "locale": "en-US"
