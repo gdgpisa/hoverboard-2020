@@ -104,15 +104,15 @@
   "subscribeNote": "No spam, only the latest news and updates!",
   "codeOfConduct": "Code of Conduct",
   "aboutBlock": {
-    "title": "DevFest Pisa is coming back in 2020!",
+    "title": "DevFest Pisa is getting bigger in 2020!",
     "callToAction": {
       "featuredSessions": {
-        "description": "GDG Pisa is proud to announce that DevFest Pisa 0.1 is now stable! DevFest Pisa will be a one-day conference all about Android, Web, Cloud and Google technologies in the hearth of Tuscany.",
+        "description": "GDG Pisa is happy to announce that DevFest Pisa is growing this year! In 2020 you will have 2 entire days to enjoy a conference all about Android, Web, Cloud and Google technologies in the hearth of Tuscany.",
         "label": "Read the full announcement",
         "link": "blog/posts/dfpi20-announced/"
       },
       "howItWas": {
-        "description": "DevFest Pisa 2019 was a great success! Make sure you don't miss the video recap and get in touch with the community.",
+        "description": "DevFest Pisa 2019 was a just awesome! You don't believe us? Check out the video recap and make sure you don't miss it this year!",
         "label": "See the video recap",
         "youtubeId": "h5d-EOTWOOU"
       }
@@ -197,10 +197,10 @@
   },
   "galleryBlock": {
     "title": "#devfestpisa highlights",
-    "description": "DevFest Pisa 2019 was an amazing event! We're looking forward to a more amazing DevFest in 2020!",
+    "description": "After two amazing DevFest Pisa, we're looking forward to a bigger/better event in 2020!",
     "callToAction": {
       "label": "See all photos",
-      "link": "https://photos.app.goo.gl/2eHDZJ2jR86mNMBl2"
+      "link": "https://photos.app.goo.gl/cRcVqhNuxt4zwDVQ9"
     }
   },
   "mapBlock": {
