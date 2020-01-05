@@ -15,6 +15,8 @@ script:
   - echo "Building..."
   - 'if [ "$TRAVIS_BRANCH" == "master" ]; then yarn build; fi'
   - 'if [ "$TRAVIS_BRANCH" == "release" ]; then yarn build:prod; fi'
+  - echo "Building Cloud functions..."
+  - npm run --prefix functions/ build
 before_deploy:
   - echo "Deploying!"
 deploy:
