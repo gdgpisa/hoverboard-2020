@@ -80,11 +80,25 @@
           </div>
       </template>
 
-      <paper-button class="cta-button animated icon-right"
+      <paper-button primary class="cta-button animated icon-right"
         on-tap="_addPotentialPartner">
         <span>{$ partnersBlock.button $}</span>
         <iron-icon icon="hoverboard:arrow-right-circle"></iron-icon>
       </paper-button>
+
+      <a href="https://bit.ly/dfpi20-partners-en" target="_blank" rel="noopener noreferrer">
+        <paper-button class="cta-button animated icon-right">
+          <span>{$ partnersBlock.proposalen $}</span>
+          <iron-icon icon="hoverboard:arrow-right-circle"></iron-icon>
+        </paper-button>
+      </a>
+      
+      <a href="https://bit.ly/dfpi20-partners" target="_blank" rel="noopener noreferrer">
+        <paper-button class="cta-button animated icon-right">
+          <span>{$ partnersBlock.proposalit $}</span>
+          <iron-icon icon="hoverboard:arrow-right-circle"></iron-icon>
+        </paper-button>
+      </a>
     </div>
 
   </template>
