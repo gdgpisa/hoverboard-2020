@@ -20,8 +20,6 @@ The following branches are deployed:
 | `master` | https://devfest-pisa20-debug.firebaseapp.com | [![Build Status](https://travis-ci.com/gdgpisa/hoverboard-2020.svg?branch=master)](https://travis-ci.com/gdgpisa/hoverboard-2020) |
 | `release` | https://devfest.gdgpisa.it | [![Build Status](https://travis-ci.com/gdgpisa/hoverboard-2020.svg?branch=release)](https://travis-ci.com/gdgpisa/hoverboard-2020) |
 
-
-
 ### Setup the project
 :book: [Full documentation](/docs/).
 
@@ -32,7 +30,7 @@ npm install
 
 Then start the development server with
 ```
-npm run serve
+npm run start
 ```
 
 This command serves the app at `http://localhost:3000` and provides basic URL routing for the app:
