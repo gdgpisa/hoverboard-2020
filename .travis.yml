@@ -24,7 +24,7 @@ jobs:
         - provider: firebase
           skip_cleanup: true
           on:
-            branch: develop
+            branch: release
           project: devfest-pisa20
           token:
             secure: "KHTN2D0oAlBgc3B8qK1yeNZ3ui0IvOdMzpbrtKeGFDblx54sgNvdSGuM2THz/ZB3Gb9+UQgX4jpYVhBEXwGzJ9SNVd2ZwZ2rdF6b7E9yLzzisf/ts2NTP23bxqgCkUFR3sDaxQeZHYmgazELtZunujC9oysfKYZJ4kLmDDHeU6Hca0oYhYnA8vylOfHJ41nyQnqDJ3GOWbvg9RwScQhTFlSOCwLeqdE8n/Fo5g6754kMSrerwl/MxxQit47utQuitHHH5Y42vzDKniNCPwO+0FcvWgmd54wO+/KBsgbN317EgIJQz7QCgGfuWLzl+2LqNk7SVRCGHYrjZcjJApa5vuytr0Z0l7BW5vPGt5F2+n7i8AenyNoXrbh0ihqBgN7NrQh3qPqfvEqRSZutootvsQGI7akfRKWa7/8Q88IQQY4nah00eKufzB2FkcoVUf8rGD7GjWZL6n6FTv0kmCfvYy5keNRUenOxsrcnwD/kwt9+lCJz99305m73uIbeKWG8xS0jUWMr6Vbbj7ySVeSIyTH9kxUWXVIrLSHQl4hiUKNJcsLhku8tordoj9F4u6MvJsYFbD9kPFmGP90TXHEaKEnGS14L98X93irKN23fJBewJe3V9zDIjZT0q1yzNPaXOcCInVTiVpoHFrc4zGrDJlAFLACR/1AQzWKe0MLoiTQ="
