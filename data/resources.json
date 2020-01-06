@@ -54,8 +54,8 @@
         },
         {
           "name": "Meet the Team",
-          "url": "https://devfest.gdgpisa.it/team/",
-          "newTab": true
+          "url": "/team",
+          "newTab": false
         }
       ]
     },
