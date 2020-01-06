@@ -79,11 +79,6 @@
       "title": "Event Resources",
       "links": [
         {
-          "name": "FAQ",
-          "url": "/faq",
-          "newTab": false
-        },
-        {
           "name": "Partnership Proposal (English)",
           "url": "https://bit.ly/dfpi20-partners-en",
           "newTab": true
