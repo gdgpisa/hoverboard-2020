@@ -1,4 +1,5 @@
-Are you looking for the **map** of the venue? 🗺 You can find it in the [Map page](/map)!
+<!-- Are you looking for the **map** of the venue? 🗺 You can find it in the [Map page](/map)!
+ -->
 
 ## How to get here 🚶‍♀️
 
