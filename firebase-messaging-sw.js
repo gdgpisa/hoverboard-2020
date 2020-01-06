@@ -2,8 +2,12 @@ importScripts('node_modules/firebase/firebase-app.js');
 importScripts('node_modules/firebase/firebase-messaging.js');
 
 firebase.initializeApp({
+  appId: '{$ firebase.appId $}',
+  apiKey: '{$ firebase.apiKey $}',
+  projectId: '{$ firebase.projectId $}',
   messagingSenderId: '{$ firebase.messagingSenderId $}',
 });
+
 const messaging = firebase.messaging();
 
 messaging.setBackgroundMessageHandler(({ data }) => {
