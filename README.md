@@ -3,7 +3,7 @@
  [![License](https://img.shields.io/badge/license-MIT%20License-brightgreen.svg)](https://opensource.org/licenses/MIT) [![Twitter](https://img.shields.io/badge/Twitter-@gdgPisa-blue.svg?style=flat)](http://twitter.com/gdgPisa)
  
 <p align="center">
-  <img src="https://i.imgur.com/2GySKdJ.png" alt="readme screenshot"/>
+  <img src="https://i.imgur.com/wUOVkZk.png" alt="readme screenshot"/>
 </p>
 
 :zap: [Live Website](https://devfest.gdgpisa.it/)
