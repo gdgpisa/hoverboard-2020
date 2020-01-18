@@ -1,0 +1,67 @@
+<link rel="import" href="../../bower_components/polymer/polymer-element.html">
+
+<link rel="import" href="../../bower_components/iron-icon/iron-icon.html">
+<link rel="import" href="../../bower_components/paper-button/paper-button.html">
+<link rel="import" href="../../bower_components/marked-element/marked-element.html">
+<link rel="import" href="../../bower_components/plastic-image/plastic-image.html">
+
+<link rel="import" href="../mixins/redux-mixin.html">
+<link rel="import" href="hoverboard-icons.html">
+
+<dom-module id="call-to-action-block">
+  <template>
+    <style is="custom-style" include="shared-styles flex flex-alignment positioning"></style>
+
+    <style>
+      :host {
+        display: block;
+        background: #d50000;
+        color: var(--text-primary-color);
+      }
+
+      .block:not(:last-of-type) {
+        margin-bottom: 32px;
+      }
+
+      .description {
+        color: var(--secondary-text-color);
+      }
+
+      paper-button {
+        margin: 0;
+      }
+    </style>
+
+    <div class="container container-narrow">
+      <h1 class="container-title">It's call for paper time! 🎙</h1>
+      <p>This is the time you've been waiting for! It's to get the spot on the stage of DevFest Pisa! Our <strong>Call for Paper</strong> is officially opened and will be opened till <strong>February the 15th</strong>. Make sure you don't missi your spot!
+      <p>
+        <a href="http://bit.ly/dfpi20-c4p"><paper-button primary invert>Submit a proposal</paper-button></a>
+        <a href="/blog/posts/its-c4p-time"><paper-button primary invert>Read the announcement</paper-button></a>
+      </p> 
+    </div>
+  </template>
+
+  <script>
+    class CallToActionBlock extends ReduxMixin(Polymer.Element) {
+      static get is() {
+        return 'call-to-action-block';
+      }
+
+      static get properties() {
+        return {
+          viewport: {
+            type: Object,
+            statePath: 'ui.viewport',
+          },
+        };
+      }
+
+      _openC4Psite() {
+        window.open('https://bit.ly/dfpi19-c4p', '_blank');
+      }
+    }
+
+    customElements.define(CallToActionBlock.is, CallToActionBlock);
+  </script>
+</dom-module>
