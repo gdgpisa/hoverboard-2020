@@ -4,9 +4,9 @@ We're happy to announce that we received really **a lot of proposals** for our D
 
 Although, we know there are still some *procrastinators* that are waiting until the last minute to submit their abstracts. In order to allow everyone to submit an abstract at our call for paper, we're happy to announce that the deadline have been extended by
 
-**5 more days!** 
+**2 more days!** 
 
-The final deadline for the cfp will be **February 20th**, at 23.59 CET.
+The final deadline for the cfp will be **February 17th**, at 23.59 CET.
 Time is running out!
 
 <br/>
