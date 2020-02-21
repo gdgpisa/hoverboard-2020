@@ -26,7 +26,7 @@ Most of the proposals comes from Italy, but we're happy to share that we receive
 
 ![cfp map](/images/posts/c4p-statistics-2.jpg)
 
-Also this year **Web** is confirmed as the #1 topic in the proposals with 46 proposals (with Android just after at 44):
+This year **Web** is confirmed as the #1 topic in the proposals with 46 proposals (with Android just after at 44):
 
 ![tag graph](/images/posts/c4p-statistics-3.png)
 
