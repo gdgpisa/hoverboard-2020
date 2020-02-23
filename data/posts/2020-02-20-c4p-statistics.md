@@ -20,7 +20,7 @@ In this graph you can see the trend of the CFP submission:
 
 ![cfp trend](/images/posts/c4p-statistics-1.png)
 
-Again, _procrastination_ is driving our CFP 😂 The last proposal was sent on Monday the TODO at **23.40**.
+Again, _procrastination_ is driving our CFP 😂 The last proposal was sent on Monday the 17th of February at **23.40**.
 
 Most of the proposals comes from Italy, but we're happy to share that we received some proposals from all around the globe! 🌎 Here you can find a map of the countries where the proposals came from:
 
